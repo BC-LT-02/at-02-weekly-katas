@@ -1,5 +1,4 @@
-﻿//https://www.codewars.com/kata/5779f894ec8832493f00002d/csharp
-namespace Solution
+﻿namespace Solution
 {
     using System;
     using System.Linq;
