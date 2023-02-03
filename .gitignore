@@ -6,6 +6,9 @@
 # DockerBuild file
 DockerBuild/
 
+# VsCode stuff
+.vscode/
+
 # Code Coverage report
 .coveragereport/
 
