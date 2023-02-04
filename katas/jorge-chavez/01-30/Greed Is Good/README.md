@@ -20,3 +20,4 @@ Example scoring
  2 4 4 5 4   450:  400 (for three 4s) + 50 (for the 5)
 In some languages, it is possible to mutate the input to the function. This is something that you should never do. If you mutate the input, you will not be able to pass all the tests.
 
+![Solution](https://i.imgur.com/buOPMgm.png)
