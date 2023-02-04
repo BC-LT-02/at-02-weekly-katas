@@ -11,3 +11,5 @@ Constraints
 0 <= input.length <= 100
 
 Along with opening (() and closing ()) parenthesis, input may contain any valid ASCII characters. Furthermore, the input string may be empty and/or not contain any parentheses at all. Do not treat other forms of brackets as parentheses (e.g. [], {}, <>).
+
+![Solution]([http://url/to/img.png](https://i.imgur.com/4pZ9Xla.png))
