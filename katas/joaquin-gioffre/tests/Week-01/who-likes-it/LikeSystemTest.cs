@@ -1,6 +1,6 @@
 namespace LikeSystemTest;
 
-using LikeSystem;
+using Week1;
 
 public class LikeSystemTest
 {

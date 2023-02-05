@@ -1,4 +1,4 @@
-namespace LikeSystem;
+namespace Week1;
 
 public class LikeSystem
 {
