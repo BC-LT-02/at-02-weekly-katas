@@ -1,6 +1,3 @@
-using System.Collections.Generic;
-using System.Linq;
-
 public class SudokuValidator
 {
     public static bool Validate(int[][] board)
