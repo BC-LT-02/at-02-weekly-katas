@@ -1,10 +1,4 @@
-// TODO: Replace examples and use TDD by writing your own tests
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-
-using NUnit.Framework;
+namespace katas.JorgeChavez.Test;
 
 [TestFixture(Description = "Example tests")]
 public class SudokuValidatorSampleTest

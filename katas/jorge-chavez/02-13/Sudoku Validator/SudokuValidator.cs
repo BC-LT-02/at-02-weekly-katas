@@ -1,3 +1,5 @@
+namespace katas.JorgeChavez;
+
 public class SudokuValidator
 {
     public static bool Validate(int[][] board)
