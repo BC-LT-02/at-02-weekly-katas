@@ -18,3 +18,6 @@ Additional Notes:
 
 
 ![](screenshot.PNG)
+
+Click [_here_](https://www.codewars.com/kata/525c7c5ab6aecef16e0001a5) to go to the kata
+

@@ -22,7 +22,6 @@ public class CountingChangeCombinations
     public int CountCombinations(int money, int[] coins)
     {
         int change = recursiveCombination(coins, coins.Length, money);
-        Console.WriteLine(change);
         return change;
     }
 }

@@ -20,3 +20,5 @@ Your function should take an amount to change and an array of unique denominatio
 ```
 
 ![](screenshot.PNG)
+
+Click [_here_](https://www.codewars.com/kata/541af676b589989aed0009e7) to go to the kata

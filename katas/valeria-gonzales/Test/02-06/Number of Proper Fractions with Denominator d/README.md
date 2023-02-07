@@ -19,3 +19,5 @@ proper_fractions(25)==20
 Be ready to handle big numbers.
 
 ![](screenshot.PNG)
+
+Click [_here_](https://www.codewars.com/kata/55b7bb74a0256d4467000070) to go to the kata
