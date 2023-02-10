@@ -1,5 +1,4 @@
-﻿//https://www.codewars.com/kata/522551eee9abb932420004a0/csharp
-public class Fibonacci
+﻿public class Fibonacci
 {
     public int NthFib(int n)
     {
