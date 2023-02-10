@@ -1,6 +1,6 @@
 namespace HighestScoringWordTest;
 
-using HighestScoringWord;
+using Week1;
 
 public class AlphabetTest
 {

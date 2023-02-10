@@ -1,4 +1,4 @@
-namespace HighestScoringWord;
+namespace Week1;
 
 using System.Collections.Generic;
 

@@ -1,6 +1,6 @@
 namespace KillerGarageDoorTest;
 
-using KillerGarageDoor;
+using Week1;
 
 public class RemoteControlTest
 {

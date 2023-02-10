@@ -1,4 +1,4 @@
-namespace HighestScoringWord;
+namespace Week1;
 
 using System.Collections.Generic;
 
@@ -6,6 +6,7 @@ public class HighestScoringWord
 {
     string Word = "";
     int HighestScore = 0;
+    int WordScore = 0;
 
     public int GetWordScore(string word, Dictionary<string, int> alphabet)
     {
@@ -26,10 +27,11 @@ public class HighestScoringWord
         string[] allWords = words.Split(" ").ToArray();
         foreach(string w in allWords)
         {
-            if(GetWordScore(w, alphabet) > HighestScore)
+            WordScore = GetWordScore(w, alphabet);
+            if(WordScore > HighestScore)
             {
                 Word = w;
-                HighestScore = GetWordScore(w, alphabet);
+                HighestScore = WordScore;
             }
         }
         HighestScore = 0;

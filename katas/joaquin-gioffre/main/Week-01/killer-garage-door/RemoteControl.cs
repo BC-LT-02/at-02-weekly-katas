@@ -1,4 +1,4 @@
-namespace KillerGarageDoor;
+namespace Week1;
 
 public class RemoteControl
 {
