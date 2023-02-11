@@ -1,3 +1,5 @@
+namespace katas.JorgeChavez.Test;
+
 [TestFixture]
 public class RomanDecodeTests
 {
