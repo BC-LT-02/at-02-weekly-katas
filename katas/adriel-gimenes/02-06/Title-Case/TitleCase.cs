@@ -9,13 +9,14 @@ public class TitleCase
         var words = title.ToLower().Split(' ');
         var exceptions = minorWords.ToLower().Split(' ');
 
-        var newWords = words.Select((word, i) => { 
+        var newWords = words.Select((word, i) =>
+        {
             return (i == 0 || !exceptions.Contains(word)) ? Capitalize(word) : word;
         });
 
         return String.Join(" ", newWords);
     }
-    
+
     private static string Capitalize(string str)
     {
         return str.First().ToString().ToUpper() + str.Substring(1);
